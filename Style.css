@@ -1,0 +1,35 @@
+.body{
+    margin: 0;
+    background-color: aliceblue;
+}
+.Logo {
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.Logo img {
+    width: 17rem;
+    height: 18rem;
+}
+.Text {
+    margin: 0;
+}
+.Text p{
+    font-size: 1.8rem;
+    margin: 0;
+    text-align: center;
+    width: 80%;
+}
+.form {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+margin: 10, 0, 10, 0;
+background-color: aqua;
+}
+.form user {
+   display: flex;
+   align-items: center; 
+}
